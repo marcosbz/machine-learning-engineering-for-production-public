@@ -1,7 +1,7 @@
 import pickle
 from main import clf
 
-
+# Define tests
 def test_accuracy():
 
     # Load test data
